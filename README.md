@@ -14,3 +14,9 @@ Contents of the Code Files are given below :-
 | 2 | Image processing, Train/validation data | 2_process.ipynb | Image Resizing,preprocessing,data splitting |
 | 3 | Transfer Learning using ResNet50 | 3_resnet50(colab).ipynb | Complete Model and Evaluation |
 | 4 | arXiv.org Research Paper Implementation | research_paper_implementation.ipynb | Complete Summary of the reseach paper in Research paper (summary doc).pdf, Attempt to replicate as close as possible |
+
+
+
+
+
+Further work on this is to deploy this model on a cloud ec2 instance and optimize workload. Check inference time and accuracy
